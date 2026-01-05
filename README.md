@@ -70,4 +70,4 @@ Whether you’re studying shapes, humans, or proteins, the key is **building bet
 
 ---
 
-*This repository contains visualizations, simulations, and code to explore these ideas in 2D, 3D, and higher dimensions.*
+*Other parts of this github account contain visualizations, simulations, and code to explore these ideas in 2D, 3D, and higher dimensions.*
